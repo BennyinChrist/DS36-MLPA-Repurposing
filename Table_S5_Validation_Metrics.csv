@@ -1,0 +1,5 @@
+Metric,Value
+Overall Bias (nt),0.616
+Overall MAPE (%),0.951
+Mean within-probe SD (nt),0.6
+Total observations,4024.0
